@@ -4,16 +4,6 @@
   <h1>👋 Hi, I'm Rostyslav! You can also call me Ross :)</h1>
 </div>
 
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  h1 {
-    animation: fadeIn 3s ease-in-out;
-  }
-</style>
-
 I'm working and studying as a Python Web Developer, acquiring the following skills/proficiencies:
 
 | Backend           | Databases          | DevOps        |
