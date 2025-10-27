@@ -4,7 +4,7 @@ MARVRK
   <h1>👋 Hi, I'm Rostyslav! You can also call me Ross :)</h1>
 </div>
 
-I'm working and studying as a Python Web Developer, acquiring the following skills/proficiencies:
+I'm working as a Python Web Developer, acquiring the following skills/proficiencies:
 
 | Backend           | Databases          | DevOps        |
 |-------------------|--------------------|---------------|
