@@ -1,8 +1,9 @@
 # Rostyslav Kondratiuk
 
-Backend Engineer · Python · FastAPI · Litestar · Go (learning) · Rust (learning)
-
-Building scalable systems — from event-driven microservices to embedded IoT.
+Backend Engineer based in Poland. I build scalable systems —
+event-driven microservices, REST APIs, IoT monitoring.
+Self-taught, mentor-guided, currently going deeper into Go and Rust.
+Into 3D printing and electronics when not coding.
 
 ---
 
@@ -35,4 +36,6 @@ Building scalable systems — from event-driven microservices to embedded IoT.
 
 ### Stats
 
-![GitHub Profile Card](https://gh-readme-profile.vercel.app/api?username=MARVRK)
+![Stats](https://gh-readme-profile.vercel.app/api?username=MARVRK)
+
+**Languages:** Python · SQL · Go (learning) · Rust (learning)
