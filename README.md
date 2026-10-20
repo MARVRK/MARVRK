@@ -37,5 +37,3 @@ Into 3D printing and electronics when not coding.
 ### Stats
 
 ![Stats](https://gh-readme-profile.vercel.app/api?username=MARVRK)
-
-**Languages:** Python · SQL · Go (learning) · Rust (learning)
